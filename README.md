@@ -32,6 +32,8 @@ Classes:
  'female',
  'male']
  
+ File paths and their corresponding labels are stored in a CSV file named 'File_finale8.csv'
+ 
 ## Motivation
 I learnt multi label cassification through fatai lectures 'Practical Deep Learning for Coders' by Jeremy Howard.
 In the class, Jeremy shows how to apply mutilabel classification to satellite images. I wanted to practice what he taught. But as in the machine learning industry they say, "Never test your model on your training set", rather than reworking the same project I applied my knowledge to a different dataset. This technique was amazing and I learnt a lot more than I would have learnt by just making the same project.
