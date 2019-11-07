@@ -5,6 +5,7 @@ Total images: 50200 ||
 Train Images: 32630 || 
 Validation Images: 17570 || 
 Number of Classes: 24 || 
+Classes:
 
 ['Activewear',
  'Bottomwear',
