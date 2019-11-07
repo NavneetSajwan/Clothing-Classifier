@@ -1,3 +1,5 @@
 # Clothing-Classifier
-In short, there are 28 categories in which which I have to classifiy all the images.
-Each Image is a 428 by 2428 image
+It is a multilabel classifiation problem.
+I scraped the fashion images from myntra.
+The task is to classify a fashion image in one or more of the 24 categories.
+The entore dataset consists of around 50000 images.
