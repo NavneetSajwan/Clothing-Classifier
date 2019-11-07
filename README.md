@@ -51,7 +51,7 @@ Jupyter Notebook
 
 ### Installing
 
-If you are running on Google Colaboratory, you will be fine with python 3. But, you still might have to install Fastai
+If you are running on Google Colaboratory, you will be fine with python 3. But, you still might have to install Fastai.
 Here is the link to official fastai setup instructions for colab https://course.fast.ai/start_colab.html
 
 
