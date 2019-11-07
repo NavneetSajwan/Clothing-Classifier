@@ -1,10 +1,10 @@
 # Clothing-Classifier
-Task: Multilabel Classifiation
-Data: Images scraped from fashion website https://www.myntra.com/.
-Total images: 50200
-Train Images: 32630
-Validation Images: 17570
-Number of Classes: 24
+Task: Multilabel Classifiation ||
+Data: Images scraped from fashion website https://www.myntra.com/. || 
+Total images: 50200 || 
+Train Images: 32630 || 
+Validation Images: 17570 || 
+Number of Classes: 24 || 
 
 ['Activewear',
  'Bottomwear',
